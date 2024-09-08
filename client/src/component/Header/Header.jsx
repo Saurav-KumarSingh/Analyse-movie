@@ -18,7 +18,10 @@ const Header = () => {
 
   return (
     <header className='flex justify-between items-center px-6 h-20 shadow-lg bg-slate-900 text-white sticky top-0 z-10'>
-      <div className='font-semibold text-lg bg-slate-900'>Movie App</div>
+      <div className='font-semibold text-xl bg-gradient-to-r from-purple-600 to-pink-700 bg-clip-text text-transparent'>
+  MovieFlicker
+</div>
+
       <div className='flex gap-4 items-center bg-slate-900'>
         <form
           onSubmit={submitHandler}
