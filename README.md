@@ -17,8 +17,6 @@ Discover your favorite movies and web series with **MovieFlicker**! Get in-depth
 
 ---
 
-
-
 ## 🔧 Setup & Installation
 
 1️⃣ **Clone the repository:**
@@ -40,10 +38,12 @@ Discover your favorite movies and web series with **MovieFlicker**! Get in-depth
    ```sh
    npm run dev
    ```
+
 ## 📸 Screenshots
-| Home Page | Movie Details |
-|-----------|--------------|
-| ![Home](https://via.placeholder.com/400x250?text=Home+Page) | ![Details](https://via.placeholder.com/400x250?text=Movie+Details) |
+### Home Page
+<img src="screenshots/home.png" alt="home_screen">
+### Details Page
+<img src="screenshots/detail.png" alt="detail_screen">
 
 ---
 
